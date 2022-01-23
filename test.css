@@ -1,0 +1,95 @@
+/* This is
+Rex's 
+work */
+body {
+    background-image: url('double\ dark.png');
+}
+
+p {
+    outline: #ffbc00 solid 10px;
+
+    color: white;
+    font-weight: bold;
+    font-family: "Arial";
+
+}
+div.static {
+    position: static;
+    border: 3px solid #73AD21;
+  }
+  
+h3 {
+    color: #ffbc00;
+    font-size: 40px;
+    font-family: "Passion one";
+    margin-bottom: 0px;
+}
+
+li a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+header {
+    background-color: #8e41d5;
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#Header h1{
+    background-color: #8e41d5;
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: bold;
+
+}
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+
+}
+
+#LeftNav {
+    background-color: #8e41d5;
+    text-align: center;
+    border: solid 8px black;
+    width: max(10%, 320px);
+    float: left;
+}
+
+#LeftNav img {
+    width: 320px
+}
+
+#LeftNav ul {
+    background-color: #8e41d5;
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 8px;
+    float: left
+}
+
+#Content {
+    background-color: #8e41d5;
+    text-align: center;
+    border: solid 8px black;
+    width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 15px
+}
+
+#Footer {
+    text-align: center;
+    background-color: #8e41d5;
+    border: solid 8px black;
+}
